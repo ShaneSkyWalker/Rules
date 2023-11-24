@@ -33,5 +33,6 @@ payload:
   - DOMAIN-SUFFIX,bbci.co.uk
   - DOMAIN-KEYWORD,bbcfmt
   - DOMAIN-KEYWORD,uk-live
+  - DOMAIN-KEYWORD,bbctvapps.co.uk
   # > iTV
   - DOMAIN-SUFFIX,itv.com
